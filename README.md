@@ -17,5 +17,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaSouza&show_icons=true&theme=dracula)
 
 ### 🌐 Onde me encontrar:
-[![LinkedIn](https://www.linkedin.com/in/julia-souza-985056224/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/julia-souza-985056224/)
 [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:seuemail@gmail.com)
