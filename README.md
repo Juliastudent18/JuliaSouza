@@ -18,4 +18,4 @@
 
 ### 🌐 Onde me encontrar:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/julia-souza-985056224/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge)](mailto:seuemail@gmail.com)
+
